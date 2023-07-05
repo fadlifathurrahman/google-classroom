@@ -1,0 +1,14 @@
+color palette classroom :
+background : #ffffff
+google :
+biru #4285f4
+merah #ea4335
+kuning #fbbc06
+ijo #34a853
+classrom :#5f636a
+daftar tugas : #478eec
+warna lain :
+ijo #5ab9c1
+abu #566e7a
+
+"Roboto",Helvetica,Arial,sans-serif
